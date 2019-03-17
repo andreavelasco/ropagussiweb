@@ -1,3 +1,6 @@
-.bg-rojo{
-    background-color: red;
+.text-color{
+    color: red;
+}
+.color-accesorio a{
+    text-decoration-color: blue;
 }
